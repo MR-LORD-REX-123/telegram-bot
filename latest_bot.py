@@ -17,7 +17,7 @@ import json
 import psutil
 import aiohttp
 
-api_id ="7895743997:AAEsos0emcBM0Ga056Kmom7TK2zUnEpIfdA"
+api_id =""
 scraper = cloudscraper.create_scraper()
 page_limit=20
 ADMIN=[5103772471]
